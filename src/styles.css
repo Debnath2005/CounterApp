@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.incrmentBtn {
+  margin: 5px;
+  padding: 5px;
+}
+
+.decrementBtn {
+  margin: 5px;
+  padding: 5px;
+}
+
+.resetBtn {
+  margin: 5px;
+  padding: 5px;
+}
