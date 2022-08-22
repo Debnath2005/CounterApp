@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Appcounter() {
+function Counter() {
   const [count, setCount] = useState(0);
   return (
     <div className="App">
@@ -27,4 +27,4 @@ function Appcounter() {
   );
 }
 
-export default Appcounter;
+export default Counter;

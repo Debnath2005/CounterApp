@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import Appcounter from "./components/counter";
+import Counter from "./components/Counter";
 export default function App() {
-  return <Appcounter />;
+  return <Counter />;
 }
